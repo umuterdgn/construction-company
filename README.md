@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/5244ddec-271c-499e-82a1-5b6c59802a02# construction-company
+# construction-company
 Construction Company - Responsive Website for showcasing services, projects, and contact information.
 🏗️ Construction Company Website
 Bu proje, bir inşaat şirketi için modern ve kullanıcı dostu bir tanıtım web sitesidir.
@@ -26,10 +26,10 @@ CSS3 / Bootstrap
 JavaScript
 
 📷 Ekran Görüntüsü
-
 <img width="1901" height="972" alt="image" src="https://github.com/user-attachments/assets/b69e9c83-0d2f-4554-8bd6-60f35c1d6d82" />
-
-📦 Kurulum
+📷 Vide 
+https://github.com/user-attachments/assets/5244ddec-271c-499e-82a1-5b6c59802a02
+📦 Kurulum Kaydı 
 Bu repoyu klonla:
 
 bash
