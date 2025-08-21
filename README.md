@@ -19,6 +19,7 @@ Bu proje, bir inşaat şirketi için modern ve kullanıcı dostu bir tanıtım w
 🌐 Modern ve SEO uyumlu yapı
 
 🛠️ Kullanılan Teknolojiler
+
 HTML5
 
 CSS3 / Bootstrap
