@@ -20,18 +20,18 @@ Bu proje, bir inşaat şirketi için modern ve kullanıcı dostu bir tanıtım w
 
 🛠️ Kullanılan Teknolojiler
 
-HTML5
+🌟 HTML5
 
-CSS3 / Bootstrap
+🌟 CSS3 / Bootstrap
 
-JavaScript
+🌟 JavaScript
 
 📷 Ekran Görüntüsü
 <img width="1901" height="972" alt="image" src="https://github.com/user-attachments/assets/b69e9c83-0d2f-4554-8bd6-60f35c1d6d82" />
-📷 Vide 
+📷 Vide Kaydı 
 https://github.com/user-attachments/assets/5244ddec-271c-499e-82a1-5b6c59802a02
 
-📦 Kurulum Kaydı 
+📦 Kurulum 
 
 Bu repoyu klonla:
 
